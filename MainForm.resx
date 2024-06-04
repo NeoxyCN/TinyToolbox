@@ -117,4 +117,129 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <metadata name="contextMenuStrip_list.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>182, 17</value>
+  </metadata>
+  <metadata name="imageList_software.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <data name="imageList_software.ImageStream" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAMAgAAAFdTeXN0ZW0uV2luZG93cy5Gb3JtcywgVmVyc2lvbj00LjAuMC4w
+        LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODkFAQAAACZTeXN0
+        ZW0uV2luZG93cy5Gb3Jtcy5JbWFnZUxpc3RTdHJlYW1lcgEAAAAERGF0YQcCAgAAAAkDAAAADwMAAAAI
+        DAAAAk1TRnQBSQFMAwEBAAEIAQABCAEAASABAAEgAQAE/wEJAQAI/wFCAU0BNgEEBgABNgEEAgABKAMA
+        AYADAAEgAwABAQEAAQgGAAEQGAABgAIAAYADAAKAAQABgAMAAYABAAGAAQACgAIAA8ABAAHAAdwBwAEA
+        AfABygGmAQABMwUAATMBAAEzAQABMwEAAjMCAAMWAQADHAEAAyIBAAMpAQADVQEAA00BAANCAQADOQEA
+        AYABfAH/AQACUAH/AQABkwEAAdYBAAH/AewBzAEAAcYB1gHvAQAB1gLnAQABkAGpAa0CAAH/ATMDAAFm
+        AwABmQMAAcwCAAEzAwACMwIAATMBZgIAATMBmQIAATMBzAIAATMB/wIAAWYDAAFmATMCAAJmAgABZgGZ
+        AgABZgHMAgABZgH/AgABmQMAAZkBMwIAAZkBZgIAApkCAAGZAcwCAAGZAf8CAAHMAwABzAEzAgABzAFm
+        AgABzAGZAgACzAIAAcwB/wIAAf8BZgIAAf8BmQIAAf8BzAEAATMB/wIAAf8BAAEzAQABMwEAAWYBAAEz
+        AQABmQEAATMBAAHMAQABMwEAAf8BAAH/ATMCAAMzAQACMwFmAQACMwGZAQACMwHMAQACMwH/AQABMwFm
+        AgABMwFmATMBAAEzAmYBAAEzAWYBmQEAATMBZgHMAQABMwFmAf8BAAEzAZkCAAEzAZkBMwEAATMBmQFm
+        AQABMwKZAQABMwGZAcwBAAEzAZkB/wEAATMBzAIAATMBzAEzAQABMwHMAWYBAAEzAcwBmQEAATMCzAEA
+        ATMBzAH/AQABMwH/ATMBAAEzAf8BZgEAATMB/wGZAQABMwH/AcwBAAEzAv8BAAFmAwABZgEAATMBAAFm
+        AQABZgEAAWYBAAGZAQABZgEAAcwBAAFmAQAB/wEAAWYBMwIAAWYCMwEAAWYBMwFmAQABZgEzAZkBAAFm
+        ATMBzAEAAWYBMwH/AQACZgIAAmYBMwEAA2YBAAJmAZkBAAJmAcwBAAFmAZkCAAFmAZkBMwEAAWYBmQFm
+        AQABZgKZAQABZgGZAcwBAAFmAZkB/wEAAWYBzAIAAWYBzAEzAQABZgHMAZkBAAFmAswBAAFmAcwB/wEA
+        AWYB/wIAAWYB/wEzAQABZgH/AZkBAAFmAf8BzAEAAcwBAAH/AQAB/wEAAcwBAAKZAgABmQEzAZkBAAGZ
+        AQABmQEAAZkBAAHMAQABmQMAAZkCMwEAAZkBAAFmAQABmQEzAcwBAAGZAQAB/wEAAZkBZgIAAZkBZgEz
+        AQABmQEzAWYBAAGZAWYBmQEAAZkBZgHMAQABmQEzAf8BAAKZATMBAAKZAWYBAAOZAQACmQHMAQACmQH/
+        AQABmQHMAgABmQHMATMBAAFmAcwBZgEAAZkBzAGZAQABmQLMAQABmQHMAf8BAAGZAf8CAAGZAf8BMwEA
+        AZkBzAFmAQABmQH/AZkBAAGZAf8BzAEAAZkC/wEAAcwDAAGZAQABMwEAAcwBAAFmAQABzAEAAZkBAAHM
+        AQABzAEAAZkBMwIAAcwCMwEAAcwBMwFmAQABzAEzAZkBAAHMATMBzAEAAcwBMwH/AQABzAFmAgABzAFm
+        ATMBAAGZAmYBAAHMAWYBmQEAAcwBZgHMAQABmQFmAf8BAAHMAZkCAAHMAZkBMwEAAcwBmQFmAQABzAKZ
+        AQABzAGZAcwBAAHMAZkB/wEAAswCAALMATMBAALMAWYBAALMAZkBAAPMAQACzAH/AQABzAH/AgABzAH/
+        ATMBAAGZAf8BZgEAAcwB/wGZAQABzAH/AcwBAAHMAv8BAAHMAQABMwEAAf8BAAFmAQAB/wEAAZkBAAHM
+        ATMCAAH/AjMBAAH/ATMBZgEAAf8BMwGZAQAB/wEzAcwBAAH/ATMB/wEAAf8BZgIAAf8BZgEzAQABzAJm
+        AQAB/wFmAZkBAAH/AWYBzAEAAcwBZgH/AQAB/wGZAgAB/wGZATMBAAH/AZkBZgEAAf8CmQEAAf8BmQHM
+        AQAB/wGZAf8BAAH/AcwCAAH/AcwBMwEAAf8BzAFmAQAB/wHMAZkBAAH/AswBAAH/AcwB/wEAAv8BMwEA
+        AcwB/wFmAQAC/wGZAQAC/wHMAQACZgH/AQABZgH/AWYBAAFmAv8BAAH/AmYBAAH/AWYB/wEAAv8BZgEA
+        ASEBAAGlAQADXwEAA3cBAAOGAQADlgEAA8sBAAOyAQAD1wEAA90BAAPjAQAD6gEAA/EBAAP4AQAB8AH7
+        Af8BAAGkAqABAAOAAwAB/wIAAf8DAAL/AQAB/wMAAf8BAAH/AQAC/wIAA///AA0AAv8B8wTyAfQB/3cA
+        Af8BBwEVBAAB6wHxdwAB9AGSAREEAAHqAQd2AAH/AfIBbQEPARIC7QERAUMBkgL/bwAD9AH/AfQB8gHv
+        AREBDgGSAvQB6gEOAeoB8AHzAfQB/wL0Af9pAAH/AfcB6wGSAfEB7wHqAwAB7wL/AesDAAH4AgcB7AHr
+        AfAB/2cAAf8B8gHqARABEQEUAUMBDwERAfgBBwHzAv8B8gHvAW0BDgEQARUBFAEQAQ8B7QHzZgAB/wH0
+        Ae0CEQETAUMBEAFtAe8B8gH0Af8CAAH/AfMB8AGSARQBEQEVARIBDgETAQcC/2QAAf8B8AEQAQ4B6wHv
+        AZIB7QG8Av8B9APzAfQC/wH0Ae8B7QH3AQcBFAEOAesB9AH/ZAAB8gHtAQABEAEHAf8BAAT/Ae8BEgIP
+        AesBvAH/AQAE/wH4AQ4BQwHvAfRkAAH0Ae8CDgFtAbwD/wHyAesBFQEOAgABDwETAZID/wH0Ae8BFQEO
+        ARMB8AH/ZAAB/wHyAZIBQwEQAewC/wHzAfcBDgFDAesC9wHqAREBEwG8Av8B8QEVAQ4B6gEHAfQB/2UA
+        Af8B9AFtAQ4B6gH0Af8B8AESAQAB7AHxAv8BBwHqAQ8B6wH0Af8B8AEAAQ4B9wH0aQAB6wEOAW0C/wEH
+        AQ4BAAHxAf8CAAH/AfcBAAEPAfMB/wHyAQABDgEHagAB6wEOAW0C/wEHAQ4BAAHxAf8CAAH/AfcBAAEP
+        AfMB/wHyAQABDgEHaAAC/wHrAQ4B6gL/AbwBFQEAAfcB8wL/AfEB6wEOARIB8wH/AfEBAAEOAe8B/2YA
+        Af8B9AG8ARMBDgHrAfQB/wHyAewBAAETAfcC8QHsAUMBFQHvAfQB/wHxARABDgH4AfEC/2QAAfQBBwEO
+        AQABFQH3A/8B8AEPBQABDgHrA/8B8wHrARABDgESAfEB/2QAAfMBkgEAAQ8B9wH0A/8B9AHwAewBFQIO
+        ARIB9wHyBP8B8wHrAQ4BFQEHAfRkAAH0AQcCDgHtAfEBvAEHAfIC/wHyAbwCBwHwAfMC/wHwAbwB8AHx
+        AeoBDgHqAfIB/2QAAf8B8wFtAQ8BFAHrARQBQwHtAfEB9AL/AgAC/wHzAfABbQEVARIB6wEQAUMBkgL/
+        ZQAB/wHwARQFAAFDAfcB8gH/AgAB9AHwAewBDgUAAfgB8mcAAv8B7QHqAfgB7wHtARQBDgERARIBvAL/
+        AZIBFAEQAQABbQGSAfcBbQESAQcB/2gAAf8B8gHwAfEB9AHyAQcB7AEPAQ4B9wL0AeoBDgEUAZIB8ALz
+        AvAB8wH/bgAB/wHxARMBDgHrArwBFAERAe0B9AH/dQAB9AHtAREEAAESAQd3AAH0AQcBFQQAAesB8HcA
+        Af8B8wEHBO8B8AH0/wBtAAFCAU0BPgcAAT4DAAEoAwABgAMAASADAAEBAQABAQYAAQIWAAP/AQAE/wwA
+        BP8MAAH/AeABDwH/DAAB/wHgAQ8B/wwAAf8B4AEPAf8MAAH/AcABAwH/DAAB+AIAAR8MAAHwAgABDwwA
+        AeACAAEPDAABwAEBAYABAwwAAcACAAEDDAABwAGAAQgBAwwAAcACAAEDDAABwAIAAQMMAAHgAgABDwwA
+        AfgBAQGAAR8MAAH4AQEBgAEfDAAB4AIAAQ8MAAHAAgABAwwAAcACAAEDDAABwAIAAQMMAAHAAgABAwwA
+        AcABAQGAAQMMAAHgAQEBgAEPDAAB4AIAAQ8MAAHwAgABDwwAAf8BwAEDAf8MAAH/AeABDwH/DAAB/wHg
+        AQ8B/wwAAf8B4AEPAf8MAAT/DAAE/wwACw==
+</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAICAAAAEAGACoDAAAFgAAACgAAAAgAAAAQAAAAAEAGAAAAAAAqAwAAAAAAAAAAAAAAAAAAAAA
+        AAAwvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmow
+        vmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmow
+        vmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmow
+        vmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmow
+        vmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmpu
+        lDdulDdulDdulDdulDdulDdulDdulDdulDdulDdulDdulDdulDdulDdulDdulDdulDdulDdulDdulDdu
+        lDdulDdulDdulDdulDdulDcwvmowvmowvmowvmowvmowvmpulDdulDdulDdulDdulDdulDdulDdulDdu
+        lDdulDdulDdulDdulDdulDdulDdulDdulDdulDdulDdulDdulDdulDdulDdulDdulDdulDcwvmowvmow
+        vmowvmowvmowvmpulDdulDdulDdulDdulDdulDdulDcwvmowvmowvmpulDdulDdulDdulDdulDdulDcw
+        vmowvmowvmowvmowvmowvmowvmowvmpulDdulDcwvmowvmowvmowvmowvmowvmpulDdulDdulDdulDdu
+        lDdulDdulDcwvmowvmowvmpulDdulDdulDdulDdulDdulDcwvmowvmowvmowvmowvmowvmowvmowvmpu
+        lDdulDcwvmowvmowvmowvmowvmowvmpulDdulDdulDdulDdulDdulDdulDcwvmowvmowvmpulDdulDdu
+        lDdulDdulDdulDcwvmowvmowvmowvmowvmowvmowvmowvmpulDdulDcwvmowvmowvmowvmowvmowvmpu
+        lDdulDdulDdulDdulDdulDdulDcwvmowvmowvmpulDdulDdulDdulDdulDdulDcwvmowvmowvmpulDdu
+        lDcwvmowvmowvmpulDdulDcwvmowvmowvmowvmowvmowvmpulDdulDdulDdulDdulDdulDdulDcwvmow
+        vmowvmpulDdulDdulDdulDdulDdulDcwvmowvmowvmpulDdulDcwvmowvmowvmpulDdulDcwvmowvmow
+        vmowvmowvmowvmpulDdulDdulDdulDdulDdulDdulDcwvmowvmowvmpulDdulDdulDdulDdulDdulDcw
+        vmowvmowvmpulDdulDcwvmowvmowvmpulDdulDcwvmowvmowvmowvmowvmowvmpulDdulDdulDdulDdu
+        lDdulDdulDcwvmowvmowvmpulDdulDdulDdulDdulDdulDcwvmowvmowvmowvmowvmowvmowvmowvmpu
+        lDdulDcwvmowvmowvmowvmowvmowvmpulDdulDdulDdulDdulDdulDdulDcwvmowvmowvmpulDdulDdu
+        lDdulDdulDdulDcwvmowvmowvmowvmowvmowvmowvmowvmpulDdulDcwvmowvmowvmowvmowvmowvmpu
+        lDdulDdulDdulDdulDdulDdulDcwvmowvmowvmpulDdulDdulDdulDdulDdulDcwvmowvmowvmowvmow
+        vmowvmowvmowvmpulDdulDcwvmowvmowvmowvmowvmowvmpulDdulDdulDdulDdulDdulDdulDcwvmow
+        vmowvmpulDdulDdulDdulDdulDdulDcwvmowvmowvmpulDdulDdulDdulDdulDdulDdulDcwvmowvmow
+        vmowvmowvmowvmpulDdulDdulDdulDdulDdulDdulDcwvmowvmowvmpulDdulDdulDdulDdulDdulDcw
+        vmowvmowvmpulDdulDdulDdulDdulDdulDdulDcwvmowvmowvmowvmowvmowvmpulDdulDdulDdulDdu
+        lDdulDdulDcwvmowvmowvmpulDdulDdulDdulDdulDdulDcwvmowvmowvmpulDdulDdulDdulDdulDdu
+        lDdulDcwvmowvmowvmowvmowvmowvmpulDdulDdulDdulDdulDdulDdulDcwvmowvmowvmpulDdulDdu
+        lDdulDdulDdulDcwvmowvmowvmpulDdulDdulDdulDdulDdulDdulDcwvmowvmowvmowvmowvmowvmpu
+        lDdulDdulDdulDdulDdulDdulDcwvmowvmowvmpulDdulDdulDdulDdulDdulDcwvmowvmowvmpulDdu
+        lDdulDdulDdulDdulDdulDcwvmowvmowvmowvmowvmowvmpulDdulDdulDdulDdulDdulDdulDcwvmow
+        vmowvmpulDdulDdulDdulDdulDdulDcwvmowvmowvmpulDdulDdulDdulDdulDdulDdulDcwvmowvmow
+        vmowvmowvmowvmpulDdulDdulDdulDdulDdulDdulDcwvmowvmowvmpulDdulDdulDdulDdulDdulDcw
+        vmowvmowvmpulDdulDdulDdulDdulDdulDdulDcwvmowvmowvmowvmowvmowvmpulDdulDdulDdulDdu
+        lDdulDdulDcwvmowvmowvmpulDdulDdulDdulDdulDdulDcwvmowvmowvmpulDdulDdulDdulDdulDdu
+        lDdulDcwvmowvmowvmowvmowvmowvmpulDdulDdulDdulDdulDdulDdulDcwvmowvmowvmpulDdulDdu
+        lDdulDdulDdulDcwvmowvmowvmpulDdulDdulDdulDdulDdulDdulDcwvmowvmowvmowvmowvmowvmpu
+        lDdulDdulDdulDdulDdulDdulDcwvmowvmowvmpulDdulDdulDdulDdulDdulDcwvmowvmowvmpulDdu
+        lDdulDdulDdulDdulDdulDcwvmowvmowvmowvmowvmowvmpulDdulDcwvmowvmowvmowvmowvmowvmow
+        vmowvmowvmowvmowvmowvmowvmpulDcwvmowvmowvmpulDdulDdulDdulDdulDdulDdulDcwvmowvmow
+        vmowvmowvmowvmpulDdulDcwvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmpulDcw
+        vmowvmowvmpulDdulDdulDdulDdulDdulDdulDcwvmowvmowvmowvmowvmowvmpulDdulDcwvmowvmow
+        vmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmpulDcwvmowvmowvmpulDdulDdulDdulDdulDdu
+        lDdulDcwvmowvmowvmowvmowvmowvmpulDdulDdulDdulDdulDdulDdulDdulDdulDdulDdulDdulDdu
+        lDdulDdulDdulDdulDdulDdulDdulDdulDdulDdulDdulDdulDdulDcwvmowvmowvmowvmowvmowvmpu
+        lDdulDdulDdulDdulDdulDdulDdulDdulDdulDdulDdulDdulDdulDdulDdulDdulDdulDdulDdulDdu
+        lDdulDdulDdulDdulDdulDcwvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmow
+        vmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmow
+        vmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmow
+        vmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmow
+        vmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmowvmow
+        vmowvmowvmowvmowvmoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+</value>
+  </data>
 </root>
